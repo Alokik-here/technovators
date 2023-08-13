@@ -1,1 +1,1 @@
-# technovators
+# it is a react app so here is the link https://technovators.netliy.app
